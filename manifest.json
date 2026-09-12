@@ -1,0 +1,11 @@
+{
+  "name": "FakeProfileGIF",
+  "description": "Ubah banner profil jadi GIF animasi gratis di Revenge",
+  "authors": [
+    {
+      "name": "Yanz4no"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0"
+}
